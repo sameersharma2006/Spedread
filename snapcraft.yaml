@@ -25,7 +25,7 @@ apps:
 parts:
   spedread:
     source: https://github.com/Darazaki/Spedread.git
-    source-tag: v2.4.2
+    source-tag: v2.4.5
     plugin: meson
     parse-info: [usr/share/appdata/com.github.Darazaki.Spedread.appdata.xml]
     meson-parameters:
